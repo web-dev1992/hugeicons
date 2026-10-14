@@ -14926,3 +14926,5 @@ export { default as Input } from './InputTextIcon';
 export { default as TextField } from './InputTextIcon';
 export { default as Ar } from './AugmentedRealityArIcon';
 export { default as AugmentedReality } from './AugmentedRealityArIcon';
+export { default as shareIcon } from './shareIcon';
+export { default as MyMoonIcon } from './MyMoonIcon';
