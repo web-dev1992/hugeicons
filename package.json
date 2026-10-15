@@ -17,6 +17,9 @@
     "build": "pnpm -r run build",
     "typecheck": "pnpm -r run typecheck",
     "test": "pnpm -r run test",
-    "clean": "pnpm -r run clean"
+    "clean": "pnpm -r run clean",
+    "docs:dev": "pnpm --filter @hugeicons/docs dev",
+    "docs:build": "pnpm --filter @hugeicons/docs build",
+    "docs:preview": "pnpm --filter @hugeicons/docs preview"
   }
 }
